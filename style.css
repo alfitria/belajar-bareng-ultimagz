@@ -1,0 +1,38 @@
+body {
+background-color: chartreuse;
+width: auto;
+
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.box1 {
+    background-color: red;
+    width: 120px;
+    height: 120px;
+}
+
+.box2 {
+    background-color: yellow;
+    width: 120px;
+    height: 120px;
+}
+
+
+.box3 {
+    background-color: blue;
+    width: 120px;
+    height: 120px;
+}
+
+
+.box4 {
+    background-color: purple;
+    width: 120px;
+    height: 120px;
+
+}
